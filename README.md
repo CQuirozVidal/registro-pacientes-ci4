@@ -17,7 +17,7 @@ Ejercicio de práctica: registro de pacientes con CodeIgniter 4, MySQL y Bootstr
 - [ ] Informe (listado imprimible o CSV)
 
 ## Avance 
-- [ ] Fase 1: Instalación y estructura
+- [X] Fase 1: Instalación y estructura
 - [ ] Fase 2: Migraciones y seed
 - [ ] Fase 3: Listado
 - [ ] Fase 4: Formulario con validación
